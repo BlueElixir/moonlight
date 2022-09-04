@@ -24,9 +24,10 @@ As of now, support will only be provided if you use up-to-date versions of the s
 
 | Version | Supported          |
 | ------- | ------------------ |
-| BETA    | :white_check_mark: For support with beta (pre-release) builds, join my Discord server. |
-| 0.8     | :white_check_mark: |
-| < 0.7   | :x:                |
+| DEV     | 🟨 Only the latest developer version will be eligible for official support. |
+| PRE     | ✔️ For support with pre-release versions, join my [Discord Server](https://discord.gg/XCpTmK8DAw). |
+| 0.8     | ✔️ |
+| < 0.7   | ❌ |
 
 
 ## Reporting Issues
