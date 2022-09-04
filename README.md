@@ -27,7 +27,7 @@ As of now, support will only be provided if you use up-to-date versions of the s
 | DEV     | 🟨 Only the latest developer version will be eligible for official support. |
 | PRE     | ✔️ For support with pre-release versions, join my [Discord Server](https://discord.gg/XCpTmK8DAw). |
 | 0.8     | ✔️ |
-| < 0.7   | ❌ |
+| < 0.8   | ❌ |
 
 
 ## Reporting Issues
