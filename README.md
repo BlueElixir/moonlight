@@ -12,7 +12,7 @@ Any other official sources of information, including, but not limited to, the ai
 
 The v1.0.0 release of moonlight will have an auto-updater built in. For information on how to disable it (to modify the script so it fits your own needs) please contact me on the [Discord Server](https://discord.gg/XCpTmK8DAw). Please understand, that script modifications made on older versions will not automatically be ported over and might require additional work to implement.
 
-This will download the latest patch versions (v1.0.z, where z is the patch version) and apply them automatically. The new script name will not contain version information; the version information will be found in the menu and in the console after loading the script.
+This will download the latest patch, minor and major versions (x.y.z, where x is the major, y is the minor and z is the patch version) and apply them automatically. The new script name will not contain version information; the version information will be found in the menu and in the console after loading the script.
 
 
 
