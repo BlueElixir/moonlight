@@ -28,8 +28,8 @@ As of now, support will only be provided if you use up-to-date versions of the s
 | ------- | ------------------ |
 | DEV     | 🟨 For support with the latest dev version, join my [Discord Server](https://discord.gg/XCpTmK8DAw). |
 | PRE     | 🟨 For support with the latest pre-release version, join my [Discord Server](https://discord.gg/XCpTmK8DAw). |
-| 0.8     | ✔️ |
-| < 0.8   | ❌ |
+| 0.8.2 & 0.8.3     | ✔️ |
+| < 0.8.2   | ❌ |
 
 
 ## Reporting Issues
